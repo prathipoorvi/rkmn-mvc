@@ -19,3 +19,4 @@
 	<li>Shri. Amol Shringare Soil Testing, Nagpur</li>
 	<li>Shri. Vivek Deshpande Furniture M/s Space Wood, Nagpur</li>
 </ol>
+<h3>Most Revered Srimat Swami Atmasthanandaji Maharaj</h3>
