@@ -1,0 +1,2290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE books SYSTEM  "books.dtd">
+<books>
+	<entry>
+		<title>Shri Ramakrishna Lilaprasang</title>
+		<authors>
+			<author>Swami Saradananda (Box) 2 vols</author>
+		</authors>
+		<code_no>H60A</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>210</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Lilamrita</title>
+		<authors>
+			<author>Shri N. R. Paranjape</author>
+		</authors>
+		<code_no>H3</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>75</price>
+	</entry>
+	<entry>
+		<title>Paramhansa Charita</title>
+		<authors>
+			<author>Swami Vvijnanananda</author>
+		</authors>
+		<code_no>H125</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Mahima</title>
+		<authors>
+			<author>Akshyakumar Sen</author>
+		</authors>
+		<code_no>H129</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Ki Antya-leela</title>
+		<authors>
+			<author>Swami Prabhananda</author>
+		</authors>
+		<code_no>H141</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>80</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Sankshipta Jivani Tatha Upadesh</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H100</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Jaisa Hamne Unhe Dekha</title>
+		<authors>
+			<author>Swami Chetananda</author>
+		</authors>
+		<code_no>H159</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>100</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Aur Shri Ma</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H63</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Ma Sarada</title>
+		<authors>
+			<author>Swami Apurwananda</author>
+		</authors>
+		<code_no>H56</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>50</price>
+	</entry>
+	<entry>
+		<title>Ma Karunamayi Saradadevi</title>
+		<authors>
+			<author>Br. Akshya Chaitanya</author>
+		</authors>
+		<code_no>H167</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>35</price>
+	</entry>
+	<entry>
+		<title>Shri Saradadevi Sankshipta Jivani Tatha Upadesh</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H101</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Ma Ki Snehachaya Mein</title>
+		<authors>
+			<author>Swami Saradeshananda</author>
+		</authors>
+		<code_no>H106</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>35</price>
+	</entry>
+	<entry>
+		<title>Ma Ke Sannidhya Mein</title>
+		<authors>
+			<author>Swami Ishanananda</author>
+		</authors>
+		<code_no>H134</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Ma Ki Baten</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H135</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>70</price>
+	</entry>
+	<entry>
+		<title>Matridarshan</title>
+		<authors>
+			<author>Swami Brahmeshananda</author>
+		</authors>
+		<code_no>H170</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Shri Samakrishna Bhaktamalika</title>
+		<authors>
+			<author>Swami Gambhirananda (Set) 2 vols.</author>
+		</authors>
+		<code_no>H78A</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>135</price>
+	</entry>
+	<entry>
+		<title>Vivekananda Charit</title>
+		<authors>
+			<author>Shri Satyendranath Majumdar</author>
+		</authors>
+		<code_no>H21</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>65</price>
+	</entry>
+	<entry>
+		<title>Yuganayak Vivekananda</title>
+		<authors>
+			<author>Swami Gambhirananda (Box) 3 vols.</author>
+		</authors>
+		<code_no>H122A</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>255</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Sankshipta Jivani</title>
+		<authors>
+			<author>Upadesh-Swami Apurwananda</author>
+		</authors>
+		<code_no>H103</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Swami Brahmananda Charit</title>
+		<authors>
+			<author>Swami Prabhananda</author>
+		</authors>
+		<code_no>H172</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>110</price>
+	</entry>
+	<entry>
+		<title>Swami Shivananda</title>
+		<authors>
+			<author>Swami Shivatatwananda</author>
+		</authors>
+		<code_no>H96</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Jivanmukta Turiyananda</title>
+		<authors>
+			<author>Swami Jagadishwarananda</author>
+		</authors>
+		<code_no>H172</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>110</price>
+	</entry>
+	<entry>
+		<title>Adbhut Sant Adbhutananda</title>
+		<authors>
+			<author>Shri Chandrashekar Chattopadhyay</author>
+		</authors>
+		<code_no>H115</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>40</price>
+	</entry>
+	<entry>
+		<title>Swami Saradananda</title>
+		<authors>
+			<author>swami prabhananda</author>
+		</authors>
+		<code_no>H151</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>100</price>
+	</entry>
+	<entry>
+		<title>Swami Akhandananda</title>
+		<authors>
+			<author>Swami Annadananda</author>
+		</authors>
+		<code_no>H161</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Swami Vijnanananda</title>
+		<authors>
+			<author>Swami Vishwashrayananda</author>
+		</authors>
+		<code_no>H110</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Sadhu Nagmahashaya</title>
+		<authors>
+			<author>Shri Sharachchandra Chakravarty</author>
+		</authors>
+		<code_no>H55</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Sister Nivedita</title>
+		<authors>
+			<author>Pravjrajika Atmaprana</author>
+		</authors>
+		<code_no>H139</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>60</price>
+	</entry>
+	<entry>
+		<title>Acharya Shankar</title>
+		<authors>
+			<author>Swami Apurwananda</author>
+		</authors>
+		<code_no>H76</code_no>
+		<language>Hindi</language>
+		<category>Jivani</category>
+		<price>35</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Vachanamrit</title>
+		<authors>
+			<author>Shri 'M' (Sampurn)</author>
+		</authors>
+		<code_no>H1S</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>100</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Vachanamrit (Sets of 2 vols.) [Box]</title>
+		<authors>
+			<author>Shri 'M'</author>
+		</authors>
+		<code_no>H1A</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>260</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Vachanamrit Prasang (Set)</title>
+		<authors>
+			<author>Swami Bhuteshananda</author>
+		</authors>
+		<code_no>H112A</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>50</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Vachanamritsar</title>
+		<authors />
+		<code_no>H113</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>40</price>
+	</entry>
+	<entry>
+		<title>Amritvani (Shriramakrishnadev Ke Upadeshon Ka Sangrah)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H95</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>40</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Dharma Tatha Sangha</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H18</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>18</price>
+	</entry>
+	<entry>
+		<title>Dhyan Dharma Tatha Sadhana</title>
+		<authors>
+			<author>Swami Brahmananda</author>
+		</authors>
+		<code_no>H93</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Dhyan Aur Adhyatmik Jivan</title>
+		<authors>
+			<author>Swami Yatishwarananda</author>
+		</authors>
+		<code_no>H140</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>125</price>
+	</entry>
+	<entry>
+		<title>Dhyan (Ramakrishna Sangha Ke Sanyasiyon Ka Vivechan)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H154</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Anandadham Ki Ore - (Dharma Prasanga Main Swami Shivananda)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H52</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>40</price>
+	</entry>
+	<entry>
+		<title>Adhyatma Marga Pradip (Swa. Turyanandaji Ke Vartalap)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H99</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Sadhakon Ke Nam Patra (Swami Turyananda Ke Patron Ka Sankalan)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H120</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Swami Akhandananda Ke Sannidhya Mein</title>
+		<authors>
+			<author>Swami Niramayananda</author>
+		</authors>
+		<code_no>H128</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Devatatma himalay</title>
+		<authors>
+			<author>Swami Akhandananda</author>
+		</authors>
+		<code_no>H144</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Swami Shivananda Smritisangrah - [Set] 3 vols.</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H75</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>150</price>
+	</entry>
+	<entry>
+		<title>Gitatatwa</title>
+		<authors>
+			<author>Swami Saradananda</author>
+		</authors>
+		<code_no>H47</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Bharat Me Shakti Puja</title>
+		<authors>
+			<author>Swami Saradananda</author>
+		</authors>
+		<code_no>H57</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Vedanta Siddhant Aur Vyavahar</title>
+		<authors>
+			<author>Swami Saradananda</author>
+		</authors>
+		<code_no>G51</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>5</price>
+	</entry>
+	<entry>
+		<title>Paramartha Prasanga</title>
+		<authors>
+			<author>Swami Virjananda</author>
+		</authors>
+		<code_no>H38</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Dharma Jivan Tatha Sadhana</title>
+		<authors>
+			<author>Swami Yatishwarananda</author>
+		</authors>
+		<code_no>H94</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>35</price>
+	</entry>
+	<entry>
+		<title>Ishwar Ki Khoj</title>
+		<authors>
+			<author>Swami Yatishwarananda</author>
+		</authors>
+		<code_no>H114</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Ishwar Prapti Ke Upaya</title>
+		<authors>
+			<author>Swami Bhuteshananda</author>
+		</authors>
+		<code_no>H117</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Prabhu Parameshwar Jab Raksha Karen</title>
+		<authors>
+			<author>Swami Japananda</author>
+		</authors>
+		<code_no>H166</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Shriramakrishna Pujapaddhati</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H91</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Stavananjali (Mulmatram)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H92</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Bhajananjali</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H98</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Ishastavan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H127</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Ramakrishna Sangha Ki Sandhya Arati</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H131</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Shriramnam Sankirtanam (Anuvad Va Hanuman Chalisa Sahit)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H105</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Sankirtansangraha</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H111</code_no>
+		<language>Hindi</language>
+		<category>Dharma-Darshan-Adhyatma</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Shriramachandra Ki Wani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H90</code_no>
+		<language>Hindi</language>
+		<category>Upadeshmala (Packet Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Bhagawan Shrikrishna Ki Wani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H89</code_no>
+		<language>Hindi</language>
+		<category>Upadeshmala (Packet Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Bhagawan Buddha Ki Wani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H88</code_no>
+		<language>Hindi</language>
+		<category>Upadeshmala (Packet Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Shrishankaracharya Ki Wani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H83</code_no>
+		<language>Hindi</language>
+		<category>Upadeshmala (Packet Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Guru Nanak Ki Wani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H84</code_no>
+		<language>Hindi</language>
+		<category>Upadeshmala (Packet Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Isa Masih Ki Wani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H87</code_no>
+		<language>Hindi</language>
+		<category>Upadeshmala (Packet Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Muhammad Paigambar Ki Wani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H82</code_no>
+		<language>Hindi</language>
+		<category>Upadeshmala (Packet Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Bhagawan Mahaveer Ki Wani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H126</code_no>
+		<language>Hindi</language>
+		<category>Upadeshmala (Packet Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Shriramkrishnadeo Ki Wani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H82</code_no>
+		<language>Hindi</language>
+		<category>Upadeshmala (Packet Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Shri Saradadevi Ki Wani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H85</code_no>
+		<language>Hindi</language>
+		<category>Upadeshmala (Packet Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Ki Wani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H54</code_no>
+		<language>Hindi</language>
+		<category>Upadeshmala (Packet Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Shriramakrishna Upadesh</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H39</code_no>
+		<language>Hindi</language>
+		<category>Upadeshmala (Packet Size)</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Ramakrishna Sangha: Adarsh Aur Itihas</title>
+		<authors>
+			<author>Swami Tejsananda</author>
+		</authors>
+		<code_no>H58</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Matri Bhumi Ke Prati Hamara Kartavya</title>
+		<authors>
+			<author>Swami Vireshwarananda</author>
+		</authors>
+		<code_no>H102</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Jitne Mat Utne Path </title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H116</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Man Ki Shanti</title>
+		<authors>
+			<author>Swami Ramakrishnananda</author>
+		</authors>
+		<code_no>H130</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Chicago Ki Vishwa Dharma Mahasabha</title>
+		<authors>
+			<author>Marie Louise Burke</author>
+		</authors>
+		<code_no>H121</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Prabuddha Nagarikata Aur Hamara Lokatantrik Rastra</title>
+		<authors>
+			<author>Sw. Ranganathananda</author>
+		</authors>
+		<code_no>H133</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Parivartanashil Samaj Ke Liye Shashwat Mulya</title>
+		<authors>
+			<author>1 Sw. Ranganathananda</author>
+		</authors>
+		<code_no>H143</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>70</price>
+	</entry>
+	<entry>
+		<title>Paramlakshaki Prapti Hetu Katipaya Disha Nirdesh</title>
+		<authors>
+			<author>Sw. Gokulananda</author>
+		</authors>
+		<code_no>H202</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Manasik Tanav Se Mukti Ke Upaya</title>
+		<authors>
+			<author>Swami Gokulananda</author>
+		</authors>
+		<code_no>H145</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Daivikripa</title>
+		<authors>
+			<author>Swami Ranganathananda</author>
+		</authors>
+		<code_no>H147</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Mauna Yoga</title>
+		<authors>
+			<author>Swami Paramananda</author>
+		</authors>
+		<code_no>H148</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Shanti Aur Dhanyata Ka Divya Path</title>
+		<authors>
+			<author>Swami Paramananda</author>
+		</authors>
+		<code_no>H149</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Ekagrata Ka Rahasya</title>
+		<authors>
+			<author>Swami Purushottamananda</author>
+		</authors>
+		<code_no>H150</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Hamari Shiksha</title>
+		<authors>
+			<author>Swami Nirvedananda</author>
+		</authors>
+		<code_no>H152</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>2</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Ka Maharashtra</title>
+		<authors>
+			<author>bhraman</author>
+		</authors>
+		<code_no>H165</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Vyavaharik Vedant Ke Alok Main Loktantrik Prashasan </title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H155</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>40</price>
+	</entry>
+	<entry>
+		<title>Punyatirha Jayrambati Ka Matrimandir</title>
+		<authors>
+			<author>Swami Tejsananda</author>
+		</authors>
+		<code_no>H168</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Jigyasa Aur Bodh</title>
+		<authors>
+			<author>Swami Ranganathananda</author>
+		</authors>
+		<code_no>H173</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Bhagwan Shriramakrishnadev Ka Sarvajanin Mandir</title>
+		<authors>
+			<author>G.V. Reddy</author>
+		</authors>
+		<code_no>H174</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Manawata Ki Zanki</title>
+		<authors>
+			<author>Swami Japananda</author>
+		</authors>
+		<code_no>H175</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Adhunik Bharat Ke Nirma Me Shikshakon Ka Kartavya </title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H176</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price></price>
+	</entry>
+	<entry>
+		<title>Aur Dayitwa</title>
+		<authors>
+			<author>Swa. Ranganathananda</author>
+		</authors>
+		<code_no></code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Tum Paramahansa Ho Jaoge</title>
+		<authors>
+			<author>Swami Sarvagatananda</author>
+		</authors>
+		<code_no>H177</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Adhunik Yug Mein Nari</title>
+		<authors>
+			<author>Swa. Ranganathananda</author>
+		</authors>
+		<code_no>H179</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Bhagavatgita (Tikasahit)</title>
+		<authors>
+			<author>Swami Apurnananda</author>
+		</authors>
+		<code_no>H108</code_no>
+		<language>Hindi</language>
+		<category>Shastra</category>
+		<price>60</price>
+	</entry>
+	<entry>
+		<title>Bhagavatgita (Arthasahit)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H109</code_no>
+		<language>Hindi</language>
+		<category>Shastra</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Upanishadon Ka Sandesh</title>
+		<authors>
+			<author>Swami Ranganathananda</author>
+		</authors>
+		<code_no>H142</code_no>
+		<language>Hindi</language>
+		<category>Shastra</category>
+		<price>100</price>
+	</entry>
+	<entry>
+		<title>Narad-bhakti-sutra (Satik)</title>
+		<authors>
+			<author>Swami Vedantananda</author>
+		</authors>
+		<code_no>H132</code_no>
+		<language>Hindi</language>
+		<category>Shastra</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Upanishadon Ki Manoharita Va Shakti</title>
+		<authors>
+			<author>Swani Ranganathananda</author>
+		</authors>
+		<code_no>H146</code_no>
+		<language>Hindi</language>
+		<category>Shastra</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Ishavasya-upanishad</title>
+		<authors>
+			<author>Trans.- Swami Videhatmananda</author>
+		</authors>
+		<code_no>H162</code_no>
+		<language>Hindi</language>
+		<category>Shastra</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Kena-upanishad</title>
+		<authors>
+			<author>Trans.- Swami Videhatmananda</author>
+		</authors>
+		<code_no>H163</code_no>
+		<language>Hindi</language>
+		<category>Shastra</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Vedanta-sara</title>
+		<authors>
+			<author>Trans.- Swami Videhatmananda</author>
+		</authors>
+		<code_no>H164</code_no>
+		<language>Hindi</language>
+		<category>Shastra</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Yoga Vishayak 7 Khandon Ka Set</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H41A</code_no>
+		<language>Hindi</language>
+		<category>Swami Vivekanandakrit Sampurna Sahitya Yoga</category>
+		<price>136</price>
+	</entry>
+	<entry>
+		<title>Jnana Yoga</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H41</code_no>
+		<language>Hindi</language>
+		<category>Swami Vivekanandakrit Sampurna Sahitya Yoga</category>
+		<price>40</price>
+	</entry>
+	<entry>
+		<title>Raja Yoga</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H11</code_no>
+		<language>Hindi</language>
+		<category>Swami Vivekanandakrit Sampurna Sahitya Yoga</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Prema Yoga</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H12</code_no>
+		<language>Hindi</language>
+		<category>Swami Vivekanandakrit Sampurna Sahitya Yoga</category>
+		<price>18</price>
+	</entry>
+	<entry>
+		<title>Karma Yoga</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H14</code_no>
+		<language>Hindi</language>
+		<category>Swami Vivekanandakrit Sampurna Sahitya Yoga</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Bhakti Yoga</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H10</code_no>
+		<language>Hindi</language>
+		<category>Swami Vivekanandakrit Sampurna Sahitya Yoga</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Jnana Yoga Par Pravachan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H68</code_no>
+		<language>Hindi</language>
+		<category>Swami Vivekanandakrit Sampurna Sahitya Yoga</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Saral Raja Yoga</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H42</code_no>
+		<language>Hindi</language>
+		<category>Swami Vivekanandakrit Sampurna Sahitya Yoga</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Dharmavijnan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H20</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>22</price>
+	</entry>
+	<entry>
+		<title>Dharmatattwa</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H70</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Dharmarahasya</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H25</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Hindu Dharma</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H17</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Hindu Dharma Ke Paksha Mein</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H23</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Chicago Vaktrita</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H9</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Narad Bhakti Sutra Evam Bhaktivivechan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H69</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Bhagawan Shrikrishna Aur Bhagavad-gita</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H66</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Bhagawan Buddha Aur Unka Sandesh</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H73</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Devavani (Uccha Adhyatmik Upadesh)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H45</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Viveka-lahari (Adhyatmik Anubhutimaya Kavya)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H33</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>18</price>
+	</entry>
+	<entry>
+		<title>Vedanta</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H67</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Vyavaharik Jivan Mein Vedanta</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H46</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Atma Tattwa</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H71</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Atmanubhuti Tatha Uske Marga</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H2</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Maranottar Jivan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H31</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Mahapurushon Ki Jivangathayen</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H28</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>18</price>
+	</entry>
+	<entry>
+		<title>Mere Guru Deo</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H7</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Ishadut Isa</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H44</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Pavahari Baba</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H24</code_no>
+		<language>Hindi</language>
+		<category>Dharma Tatha Adhyatma</category>
+		<price>5</price>
+	</entry>
+	<entry>
+		<title>Vivekanandaji Ke Sang Me</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H19</code_no>
+		<language>Hindi</language>
+		<category>Sambhashanatmak</category>
+		<price>40</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Se Vartalap</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H35</code_no>
+		<language>Hindi</language>
+		<category>Sambhashanatmak</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Vivekanandaji Ke Samsmran</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H37</code_no>
+		<language>Hindi</language>
+		<category>Sambhashanatmak</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Vivekanandaji Ke Sannidhya Mein</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H5</code_no>
+		<language>Hindi</language>
+		<category>Sambhashanatmak</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Vivekwani (Swami Vivekananda Ki Shikshayen)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H160</code_no>
+		<language>Hindi</language>
+		<category>Sambhashanatmak</category>
+		<price>35</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Sahitya Sanchayan - PB</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H64</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>55</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Sahitya Sanchayan - HB</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H64A</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>90</price>
+	</entry>
+	<entry>
+		<title>He bharat! Utho! Jago!</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H32</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Patravali</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H36</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>100</price>
+	</entry>
+	<entry>
+		<title>Bhartiya Vyakhan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H30</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>50</price>
+	</entry>
+	<entry>
+		<title>Bharat Ka Aitihasik Krama Vikas</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H72</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Hamara Bharat</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H48</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Vartaman Bharat</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H6</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Bharat Ka Bhavishya</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H107</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Naya Bharat Gadho</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H97</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Bhartiya Nari</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H27</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Jati, Sanskriti Aur Samajvad</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H43</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Shiksha</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H26</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Sarvaloukik Niti Tatha Sadachar </title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H74</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Vividha Prasanga</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H50</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Chintaniya Baten</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H49</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Parivrajak</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H16</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Prachya Aur Paschatya</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H8</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>18</price>
+	</entry>
+	<entry>
+		<title>Yuvakon Ke Prati</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H104</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda : Rastrako Ahwahan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H77</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Vyaktitva Ka Vikas</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H153</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Bharat Aur Uski Samasyayen</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H156</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Agnimantra [Hindi]</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H158</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Dhyan Tatha Isaki Paddhatiyan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H171</code_no>
+		<language>Hindi</language>
+		<category>Vividha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Shaktidayi Vichar</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H59</code_no>
+		<language>Hindi</language>
+		<category>Packet Size</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Suktiyan Evam Subhashit</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H65</code_no>
+		<language>Hindi</language>
+		<category>Packet Size</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Meri Samar Niti</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H15</code_no>
+		<language>Hindi</language>
+		<category>Packet Size</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Mera Jivan Tatha Dhyeya</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H29</code_no>
+		<language>Hindi</language>
+		<category>Packet Size</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Man Ki Shaktiyan Tatha Jivan-Gathan Ki Sadhanayen</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H40</code_no>
+		<language>Hindi</language>
+		<category>Packet Size</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Karma Aur Uska Rahasya</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H178</code_no>
+		<language>Hindi</language>
+		<category>Packet Size</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Amrit Mantra</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H201</code_no>
+		<language>Hindi</language>
+		<category>Message: Poster (Wall Hanging)</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Mahatma Mantra</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H203</code_no>
+		<language>Hindi</language>
+		<category>Message: Poster (Wall Hanging)</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Sevak Mantra</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H204</code_no>
+		<language>Hindi</language>
+		<category>Message: Poster (Wall Hanging)</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Shakti Mantra</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H205</code_no>
+		<language>Hindi</language>
+		<category>Message: Poster (Wall Hanging)</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Bala Mantra</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H206</code_no>
+		<language>Hindi</language>
+		<category>Message: Poster (Wall Hanging)</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Bhalai Mantra</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H207</code_no>
+		<language>Hindi</language>
+		<category>Message: Poster (Wall Hanging)</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Matri Mantra</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>H208</code_no>
+		<language>Hindi</language>
+		<category>Message: Poster (Wall Hanging)</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Man Aur Uska Nigraha</title>
+		<authors>
+			<author>Swami Budhananda</author>
+		</authors>
+		<code_no>A1</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Sadhana Aur Siddhi</title>
+		<authors>
+			<author>Swami Ashokananda</author>
+		</authors>
+		<code_no>A2</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Samadhi Ke Sopan</title>
+		<authors>
+			<author>F. J. Alekzendar</author>
+		</authors>
+		<code_no>A3</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Dharma Kyon?</title>
+		<authors>
+			<author>Swami Pavitrananda</author>
+		</authors>
+		<code_no>A4</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Shri Ma Sharadadevi</title>
+		<authors>
+			<author>Swami Gambhirananda</author>
+		</authors>
+		<code_no>A5</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>90</price>
+	</entry>
+	<entry>
+		<title>Jina Sikho</title>
+		<authors>
+			<author>Swami Jagdatmananda (SET) 2 Vols.</author>
+		</authors>
+		<code_no>A6</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>87</price>
+	</entry>
+	<entry>
+		<title>Sadhana Ki Taiyari</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A6A</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>45</price>
+	</entry>
+	<entry>
+		<title>Adhyatmik Jivan Kyon Aur Kaise</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A7</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>45</price>
+	</entry>
+	<entry>
+		<title>Anand Ki Khoj</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A7A</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>50</price>
+	</entry>
+	<entry>
+		<title>Shriramakrishna Ke Divya Darshan</title>
+		<authors>
+			<author>Swami Yogeshananda</author>
+		</authors>
+		<code_no>A8</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Punarjanma Kyon Aur Kaise</title>
+		<authors>
+			<author>Swami Satprakashananda</author>
+		</authors>
+		<code_no>A9</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Ka Manavtawad</title>
+		<authors>
+			<author>Swami Ranganathananda</author>
+		</authors>
+		<code_no>A10</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Hindu Dharma: Prashnottar Malika</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A11</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Hindu Dharma Ka Sarvabhaum Tattwa</title>
+		<authors>
+			<author>Swami Ananyananda</author>
+		</authors>
+		<code_no>A12</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>4</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda: Ek Sachitra Jivani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A13</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>35</price>
+	</entry>
+	<entry>
+		<title>Yoga Kya Hai?</title>
+		<authors>
+			<author>Swami Pavitrananda</author>
+		</authors>
+		<code_no>A14</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Ek Jivani</title>
+		<authors>
+			<author>Swami Nikhilananda</author>
+		</authors>
+		<code_no>A15</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>50</price>
+	</entry>
+	<entry>
+		<title>Vivekananda Ki Jivani</title>
+		<authors>
+			<author>Romain Rolland</author>
+		</authors>
+		<code_no>A16</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>50</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Sachitra Jivani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A17</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>100</price>
+	</entry>
+	<entry>
+		<title>Vijnyan Aur Adhyatmikta</title>
+		<authors>
+			<author>Swami Budhananda</author>
+		</authors>
+		<code_no>A18</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Ki Jivani</title>
+		<authors>
+			<author>Romain Rolland</author>
+		</authors>
+		<code_no>A19</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>50</price>
+	</entry>
+	<entry>
+		<title>Shrikrishna Ki Jivani</title>
+		<authors>
+			<author>Swami Videhatmananda</author>
+		</authors>
+		<code_no>A20</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Iccha Shakti Aur Uska Vikas</title>
+		<authors>
+			<author>Swami Budhananda</author>
+		</authors>
+		<code_no>A21</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Charitra-Nirman Kaise Karen?</title>
+		<authors>
+			<author>Swami Budhananda</author>
+		</authors>
+		<code_no>A22</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Atmonnati Ke Sopan</title>
+		<authors>
+			<author>Swami Atmananda</author>
+		</authors>
+		<code_no>A23</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>40</price>
+	</entry>
+	<entry>
+		<title>Vividha Bhajan [Set] 2 Vols.</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A24</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>60</price>
+	</entry>
+	<entry>
+		<title>Prerak Prasang</title>
+		<authors>
+			<author>Shri Sharatchandra Pendharkar</author>
+		</authors>
+		<code_no>A25</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>40</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Ki Jivankatha</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A26</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>22</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Ki Kahaniyan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A27</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Bacchon Ke Shri Ramakrishna </title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A28</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>18</price>
+	</entry>
+	<entry>
+		<title>Shri Saradadevi Jivankatha </title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A29</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>18</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Ki Kahani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A30</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>26</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Ki Bodhakathayen</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A31</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>18</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Kathachitramala</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A32</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Ki Manoram Kahaniyan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A33</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>18</price>
+	</entry>
+	<entry>
+		<title>Bacchon Ke Vivekananda</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A34</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Bacchon Ki Ma Saradadevi</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A35</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Singh Shavak Hari </title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A36</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>18</price>
+	</entry>
+	<entry>
+		<title>Mantra Pushpam [Big]</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A37</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>160</price>
+	</entry>
+	<entry>
+		<title>Mantra Pushpan (Pkt. Size)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A37A</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>70</price>
+	</entry>
+	<entry>
+		<title>Mrityu Ke Par</title>
+		<authors>
+			<author>Swami Abhedananda</author>
+		</authors>
+		<code_no>A38</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>70</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Sahitya (Sub-set)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A39</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>350</price>
+	</entry>
+	<entry>
+		<title>Sabke Swamiji</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A40</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Ki Saral Jivani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A41</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Jankirupini Jagatjanani Ma Sarada</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A42</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Jagatjanani Ma Sarada</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A43</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna, Shri Ma aur Swami Vivekananda Ki Saral Jivani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A44</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Swami Premananda</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A45</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>22</price>
+	</entry>
+	<entry>
+		<title>Shri Shankar Charit</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A46</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Gitatattwa Chintan [Set] 2 Vols.</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A47</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>200</price>
+	</entry>
+	<entry>
+		<title>Amrita Sandesh</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>A48</code_no>
+		<language>Hindi</language>
+		<category>Other Publication (Books)</category>
+		<price>2</price>
+	</entry>
+	<entry>
+		<title></title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no></code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price></price>
+	</entry>
+	%%%%%%%%%%%% Marathi Publications
+	
+	
+	
+	
+	
+	
+	<entry>
+		<title></title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no></code_no>
+		<language></language>
+		<category></category>
+		<price></price>
+	</entry>
+	<entry>
+		<title></title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no></code_no>
+		<language></language>
+		<category></category>
+		<price></price>
+	</entry>
+	<entry>
+		<title></title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no></code_no>
+		<language></language>
+		<category></category>
+		<price></price>
+	</entry>
+	
+</books>
