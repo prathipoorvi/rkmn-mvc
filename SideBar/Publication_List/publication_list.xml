@@ -2240,51 +2240,1743 @@
 		<price>2</price>
 	</entry>
 	<entry>
-		<title></title>
+		<title>Shri Ramakrishna Lilaprasang (Box)</title>
 		<authors>
-			<author></author>
+			<author>Swami Saradananda</author>
 		</authors>
-		<code_no></code_no>
+		<code_no>M83A</code_no>
 		<language>Marathi</language>
 		<category>Charitra Grantha</category>
-		<price></price>
+		<price>200</price>
 	</entry>
-	%%%%%%%%%%%% Marathi Publications
-	
-	
-	
-	
-	
-	
 	<entry>
-		<title></title>
+		<title>Shri Ramakrishna Charitra</title>
+		<authors>
+			<author>Shri N.R. Paranjape</author>
+		</authors>
+		<code_no>M1</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>75</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Mahima</title>
+		<authors>
+			<author>Akshayakumar Sen</author>
+		</authors>
+		<code_no>M151</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>225</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna</title>
+		<authors>
+			<author>Sankshipta Charitra Ani Upadesh</author>
+		</authors>
+		<code_no>M104</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Shrisharadadevi</title>
+		<authors>
+			<author>Swami Apurwananda</author>
+		</authors>
+		<code_no>M123</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Karunarupini Mataji Shrisaradadevi</title>
+		<authors>
+			<author>Br. Akshya Chaitanya</author>
+		</authors>
+		<code_no>M176</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>35</price>
+	</entry>
+	<entry>
+		<title>Shrisaradadevi</title>
+		<authors>
+			<author>Sankshipta Charitra Ani Upadesh</author>
+		</authors>
+		<code_no>M123</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Shrisaradadevi Bodhasudha</title>
 		<authors>
 			<author></author>
 		</authors>
-		<code_no></code_no>
-		<language></language>
-		<category></category>
-		<price></price>
+		<code_no>M177</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>20</price>
 	</entry>
 	<entry>
-		<title></title>
+		<title>Shriramakrishna Bhaktamalika (Set)</title>
+		<authors>
+			<author>Swami Gambhirananda</author>
+		</authors>
+		<code_no>M13</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>110</price>
+	</entry>
+	<entry>
+		<title>Vishwamanav Swami Vivekananda [Box]</title>
+		<authors>
+			<author>Dr. V.R. Karandikar</author>
+		</authors>
+		<code_no>M119</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>400</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Yanche Charitra</title>
+		<authors>
+			<author>Satyendranath Mazumdar</author>
+		</authors>
+		<code_no>M13</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>65</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda</title>
+		<authors>
+			<author>Sankshipta Charitra Ani Upadesh</author>
+		</authors>
+		<code_no>M119</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Swamijinche Charanashrit (Monastic Disciples of Swamiji)</title>
 		<authors>
 			<author></author>
 		</authors>
-		<code_no></code_no>
-		<language></language>
-		<category></category>
-		<price></price>
+		<code_no>M70</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>100</price>
 	</entry>
 	<entry>
-		<title></title>
+		<title>Swami Shivananda</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M159</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Swami Saradananda</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M97</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Adbhutanandanchi Adbhut Kahani</title>
 		<authors>
 			<author></author>
 		</authors>
-		<code_no></code_no>
-		<language></language>
-		<category></category>
-		<price></price>
+		<code_no>M135</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>20</price>
 	</entry>
-	
+	<entry>
+		<title>Swami Akhandananda</title>
+		<authors>
+			<author>Ahri V. V. Kaduskar</author>
+		</authors>
+		<code_no>M97</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Smriti Katha</title>
+		<authors>
+			<author>Swami Akhandananda</author>
+		</authors>
+		<code_no>M109</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Himalayachya Kushit</title>
+		<authors>
+			<author>Swami Akhandananda</author>
+		</authors>
+		<code_no>M20</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Sadhu Nagmahashaya</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M8</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Aghormani Va 'Gauri Ma'</title>
+		<authors>
+			<author>Swami Shivetatwananda</author>
+		</authors>
+		<code_no>M71</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Bhagini Nivedita</title>
+		<authors>
+			<author>Pravrajika Atmaprana</author>
+		</authors>
+		<code_no>M176</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>35</price>
+	</entry>
+	<entry>
+		<title>Vachanamritkar Shri 'M</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M173</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Maryada Purshottam Shriram</title>
+		<authors>
+			<author>Prof. Shri S. M. Kulkarni</author>
+		</authors>
+		<code_no>M150</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>60</price>
+	</entry>
+	<entry>
+		<title>Bhagavan Shrikrishna</title>
+		<authors>
+			<author>Prof. Shri S. M. Kulkarni</author>
+		</authors>
+		<code_no>M142</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>80</price>
+	</entry>
+	<entry>
+		<title>Devavrata Bhishma</title>
+		<authors>
+			<author>Prof. Shri S. M. Kulkarni</author>
+		</authors>
+		<code_no>M188</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Dharmaraj Yudhishthir</title>
+		<authors>
+			<author>Prof. Shri S. M. Kulkarni</author>
+		</authors>
+		<code_no>M189</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Acharya Shankar</title>
+		<authors>
+			<author>Swami Apurwananda</author>
+		</authors>
+		<code_no>M111</code_no>
+		<language>Marathi</language>
+		<category>Charitra Grantha</category>
+		<price>35</price>
+	</entry>
+	<entry>
+		<title>Shri Ramakrishna Vachanamrit (Box)</title>
+		<authors>
+			<author>Shri 'M'</author>
+		</authors>
+		<code_no>M11A</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>250</price>
+	</entry>
+	<entry>
+		<title>Shri Shri Ramakrishna Kathamrit-i</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M145</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>35</price>
+	</entry>
+	<entry>
+		<title>Amritvani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M130</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>35</price>
+	</entry>
+	<entry>
+		<title>Matricharani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M110</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>80</price>
+	</entry>
+	<entry>
+		<title>Matri-wani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M179</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Sadhak Sadhana Ani Siddhi</title>
+		<authors>
+			<author>Swami Brahmananda</author>
+		</authors>
+		<code_no>M99</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Adhyatmamarga Deepika</title>
+		<authors>
+			<author>Swami Turiyanandanchi Sambhashne</author>
+		</authors>
+		<code_no>M141</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Priya Sadhakanno</title>
+		<authors>
+			<author>Swami Turiyanandachi Patre</author>
+		</authors>
+		<code_no>M108</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Anandadhamakade</title>
+		<authors>
+			<author>Sw. Shivanandanchi Sambhashane</author>
+		</authors>
+		<code_no>M107</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>40</price>
+	</entry>
+	<entry>
+		<title>Swami Shivananda Smriti Sangraha</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M184</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>100</price>
+	</entry>
+	<entry>
+		<title>Swami Premanandanchya Sahavasat</title>
+		<authors>
+			<author>Swami Omkareshwarananda</author>
+		</authors>
+		<code_no>M162</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Swami Akhandanandanchya Sahawasat</title>
+		<authors>
+			<author>Swami Niramayananda</author>
+		</authors>
+		<code_no>M126</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Sw. Vijnanananda Yanchyashi Adhyatmik Samvad</title>
+		<authors>
+			<author>Swami Apurwananda</author>
+		</authors>
+		<code_no>M180</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Gitatattwa</title>
+		<authors>
+			<author>Swami Saradananda</author>
+		</authors>
+		<code_no>M121</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Bharatatil Shakti Puja</title>
+		<authors>
+			<author>Swami Saradananda</author>
+		</authors>
+		<code_no>M105</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Vedanta Siddhant Ani Vyavahar</title>
+		<authors>
+			<author>Swami Saradananda</author>
+		</authors>
+		<code_no>M113</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>5</price>
+	</entry>
+	<entry>
+		<title>Shashvat Shanti</title>
+		<authors>
+			<author>Swami Adbhutanandanchi Adbhut Upadeshwani</author>
+		</authors>
+		<code_no>M153</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Manahshanti</title>
+		<authors>
+			<author>Swami Ramakrishnananda</author>
+		</authors>
+		<code_no>M144</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Parmarthachi Watchal</title>
+		<authors>
+			<author>Swami Virajananda</author>
+		</authors>
+		<code_no>M69</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Parmarthik Jivan: Kahi Margadarshan</title>
+		<authors>
+			<author>Swami Gokulananda</author>
+		</authors>
+		<code_no>M139</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Vartaman Yugasathi Adhyat</title>
+		<authors>
+			<author>Swami Vireshwarananda</author>
+		</authors>
+		<code_no>M117</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Adhyatmik Sadhana</title>
+		<authors>
+			<author>Swami Ashokananda</author>
+		</authors>
+		<code_no>M174</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>18</price>
+	</entry>
+	<entry>
+		<title>Bhagwatatil Bhakti Nirzar</title>
+		<authors>
+			<author>Shri S.B. Varnekar</author>
+		</authors>
+		<code_no>M164</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>100</price>
+	</entry>
+	<entry>
+		<title>Dharmacha Gabha Anubhav</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M77</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Pathirakha Prabhu Parmeshwar</title>
+		<authors>
+			<author>Swami Japananda</author>
+		</authors>
+		<code_no>M175</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Stavananjali</title>
+		<authors>
+			<author>Marathi Bhashantarasahit</author>
+		</authors>
+		<code_no>M140</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>60</price>
+	</entry>
+	<entry>
+		<title>Srimad Bhagvadgita</title>
+		<authors>
+			<author>Marathi Bhashantarasahit</author>
+		</authors>
+		<code_no>M132</code_no>
+		<language>Marathi</language>
+		<category>Dharmavishayak Granth</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Vartamanjag Ani Ramakrishna-Vivekananda</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M91</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Adhunik Bharat Ani Ramakrishna-Vivekananda</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M92</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Amachi Mukhya Samasya Ani Srk-Vive. /Itar Lekha</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M93</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Ramakrishna Shishyanche Ameriketil Karya</title>
+		<authors>
+			<author>Swami Atulananda</author>
+		</authors>
+		<code_no>M128</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Chicagochi Sarvadharma Parishad</title>
+		<authors>
+			<author>Marie Louise Burke</author>
+		</authors>
+		<code_no>M137</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Maharashtrat Swami Vivekananda</title>
+		<authors>
+			<author>Swami Videhatmananda</author>
+		</authors>
+		<code_no>M143</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Bhagavadgitechya Antarangat</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M76</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Katha Upanishadache Antaranga</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M65</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Kena Upanishadache Antaranga</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M75</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Mundaka Upanishadache Antaranga</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M82</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Isha Upanishadache Antaranga</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M74</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Adhunik Manwala Upanishdacha Sandesh</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M95</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Swapna Yoga - Swapnacha Artha</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M72</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Raslileche Antaranga</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M79</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Ishoupnishad (Mul Tikesahit)</title>
+		<authors>
+			<author>Swami Yogatmananda</author>
+		</authors>
+		<code_no>M134</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Kenopanishad (Mul Tikesahit)</title>
+		<authors>
+			<author>Swami Yogatmananda</author>
+		</authors>
+		<code_no>M138</code_no>
+		<language>Marathi</language>
+		<category>Sriramakrishna-Vivekananda Vishayak Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Bhagavan Shriramachandra Mhanatat</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M98</code_no>
+		<language>Marathi</language>
+		<category>Uapadeshmala (Pocket Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Bhagavan Shrikrishna Mhanatat</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M85</code_no>
+		<language>Marathi</language>
+		<category>Uapadeshmala (Pocket Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Bhagavan Buddha Mhanatat</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M81</code_no>
+		<language>Marathi</language>
+		<category>Uapadeshmala (Pocket Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Shankaracharya Mhanatat</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M80</code_no>
+		<language>Marathi</language>
+		<category>Uapadeshmala (Pocket Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Yeshu Kristha Mhanatat</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M86</code_no>
+		<language>Marathi</language>
+		<category>Uapadeshmala (Pocket Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Mh. Paigambar Mhanatat</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M89</code_no>
+		<language>Marathi</language>
+		<category>Uapadeshmala (Pocket Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Gurunanak Mhanatat</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M88</code_no>
+		<language>Marathi</language>
+		<category>Uapadeshmala (Pocket Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Shriramakrishna Mhanatat</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M166</code_no>
+		<language>Marathi</language>
+		<category>Uapadeshmala (Pocket Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Shriramakrishna Vaksudha</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M3</code_no>
+		<language>Marathi</language>
+		<category>Uapadeshmala (Pocket Size)</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Mhanatat</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M84</code_no>
+		<language>Marathi</language>
+		<category>Uapadeshmala (Pocket Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Mhanatat</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M43</code_no>
+		<language>Marathi</language>
+		<category>Uapadeshmala (Pocket Size)</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Ramakrishna Sangha Ek Shatakachi Watchal</title>
+		<authors>
+			<author>Shri V. R. Karandikar</author>
+		</authors>
+		<code_no>M127</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>75</price>
+	</entry>
+	<entry>
+		<title>Ramakrishna Sangha Dhyeya Wa Itihas</title>
+		<authors>
+			<author>Swami Tejsananda</author>
+		</authors>
+		<code_no>M21</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Shrijnaneshwar (Tatwadarshi Ani Kavi)</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M73</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Hindu Dharmachi Rupresha</title>
+		<authors>
+			<author>Swami Nirvedananda</author>
+		</authors>
+		<code_no>M154</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Hindu Stri Ajachi-Udyachi</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M78</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Matribhumi Sambandhi Apale Kartavya</title>
+		<authors>
+			<author>Swami Vireshwarananda</author>
+		</authors>
+		<code_no>M112</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Man Ani Tyacha Nigraha</title>
+		<authors>
+			<author>Swami Budhananda</author>
+		</authors>
+		<code_no>M122</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Manachya Ekagrateche Rahasya</title>
+		<authors>
+			<author>Swami Purushottamananda</author>
+		</authors>
+		<code_no>M163</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Vijnan Ani Adhyatma</title>
+		<authors>
+			<author>Swami Ranganathananda</author>
+		</authors>
+		<code_no>M148</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Grihasthanche Adhyatmik Jivan</title>
+		<authors>
+			<author>Swami Ranganathananda</author>
+		</authors>
+		<code_no>M160</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Vedantapranit Satyacha Marg</title>
+		<authors>
+			<author>Swami Ranganathananda</author>
+		</authors>
+		<code_no>M161</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Jivan-Jidnyasa Swami Ranganathananda</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M167</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Yajnyawalkya-Maitreyee Samvad</title>
+		<authors>
+			<author>Swami Shivatattwananda</author>
+		</authors>
+		<code_no>M178</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Upanishadancha Sandesh</title>
+		<authors>
+			<author>Swami Ranganathananda</author>
+		</authors>
+		<code_no>M183</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>150</price>
+	</entry>
+	<entry>
+		<title>Nagpurche Shriramakrishna Mandir</title>
+		<authors>
+			<author>Shri G. V. Reddy</author>
+		</authors>
+		<code_no>M185</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Tu Paramahansa Hoshil</title>
+		<authors>
+			<author>Swami Sarvagatananda</author>
+		</authors>
+		<code_no>M186</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Tethe Kar Maze Julti</title>
+		<authors>
+			<author>Swami Japananda</author>
+		</authors>
+		<code_no>M181</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Adhunik Yugatil Striya</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M190</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Adhunik Bhartachi Ubharni va Shikshkanchi Bhumika</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M191</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Vyakti Ek: Pailu Anek</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M192</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Mule: Manavateche Sarvashreshtha Dhan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M193</code_no>
+		<language>Marathi</language>
+		<category>Vividha Grantha</category>
+		<price>5</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Granthavali (Box) 10 Khanda</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M27A</code_no>
+		<language>Marathi</language>
+		<category>Swami Vivekanandakrita Sampurna Sahitya</category>
+		<price>800</price>
+	</entry>
+	<entry>
+		<title>Yoga Vishyak 7 Granthancha Sampurana - Set</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M38A</code_no>
+		<language>Marathi</language>
+		<category>Yogavishyak Granth</category>
+		<price>129</price>
+	</entry>
+	<entry>
+		<title>Jnana Yoga</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M38</code_no>
+		<language>Marathi</language>
+		<category>Yogavishyak Granth</category>
+		<price>40</price>
+	</entry>
+	<entry>
+		<title>Raja Yoga</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M25</code_no>
+		<language>Marathi</language>
+		<category>Yogavishyak Granth</category>
+		<price>25</price>
+	</entry>
+	<entry>
+		<title>Karma Yoga</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M9</code_no>
+		<language>Marathi</language>
+		<category>Yogavishyak Granth</category>
+		<price>18</price>
+	</entry>
+	<entry>
+		<title>Bhakti Yoga</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M15</code_no>
+		<language>Marathi</language>
+		<category>Yogavishyak Granth</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Prema Yoga</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M54</code_no>
+		<language>Marathi</language>
+		<category>Yogavishyak Granth</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Subodha Rajayoga</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M50</code_no>
+		<language>Marathi</language>
+		<category>Yogavishyak Granth</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Jnana Margawaril Pravachane</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M58</code_no>
+		<language>Marathi</language>
+		<category>Yogavishyak Granth</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Majhe Gurudeo</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M5</code_no>
+		<language>Marathi</language>
+		<category>Charitrapar Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Ishadut Yeshu Khrista</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M90</code_no>
+		<language>Marathi</language>
+		<category>Charitrapar Grantha</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Pavahari Baba</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M4</code_no>
+		<language>Marathi</language>
+		<category>Charitrapar Grantha</category>
+		<price>5</price>
+	</entry>
+	<entry>
+		<title>Mahapurshyanchya Jivankatha</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M12</code_no>
+		<language>Marathi</language>
+		<category>Charitrapar Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekanandanchya Sahavasat (Gurushishya Samvad)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M19</code_no>
+		<language>Marathi</language>
+		<category>Sambhashanatmak Grantha</category>
+		<price>35</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Yanchya Mulakhati Va Prashnattor</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M48</code_no>
+		<language>Marathi</language>
+		<category>Sambhashanatmak Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekanandanshi Samvad Ani Sambhashane</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M26</code_no>
+		<language>Marathi</language>
+		<category>Sambhashanatmak Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekanandanchya Athawani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>N16</code_no>
+		<language>Marathi</language>
+		<category>Sambhashanatmak Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Vivekwani</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M158</code_no>
+		<language>Marathi</language>
+		<category>Sambhashanatmak Grantha</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Amhi Pahilele Swami Vivekananda</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M159</code_no>
+		<language>Marathi</language>
+		<category>Sambhashanatmak Grantha</category>
+		<price>100</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekanandan Barobar Paribraman</title>
+		<authors>
+			<author>Bhagini Nivedita</author>
+		</authors>
+		<code_no>M170</code_no>
+		<language>Marathi</language>
+		<category>Sambhashanatmak Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Hindudharma</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M66</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Hindu Dharmache Punaruthan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M6</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Vicharaniya Goshti</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M62</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>16</price>
+	</entry>
+	<entry>
+		<title>Bharatachi Adhyatmik Vichardhara</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M61</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Dharmabhumi Bharat Ani Itar Likhan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M64</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Dharmache Swarup Ani Sadhan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M63</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Dharmache Vijnayan Ani Tattwajnan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M51</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Sarvajanin Dharma: Swarup Va Sadhana</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M41</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Vedantache Swarup Ani Prabhav</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M39</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Vedanta Ani Jivan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M18</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Uchha Jivanachi Sadhana</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M57</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Atmasakshatkar: Sadhana Va Siddhi</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M47</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Punarjanma Ani Atmyache Amaratva</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M40</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Bhagavan Krishna Ani Bhagwatgita</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M53</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>18</price>
+	</entry>
+	<entry>
+		<title>Bhagavan Buddha Ani Tyanchi Shikwan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M120</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Manawache Khare Swarup Ani Vividha Bhashane</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M67</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Daivivani (Uchha Adhyatmik Upadesh)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M37</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Kavita (Gudha Adhyatmik Kavya)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M46</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Vedanta Ha Bhavijagacha Dharma Ahe Ka ?</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M42</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Granthawali Sanchayan [Pb]</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M124</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>55</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Granthawali Sanchayan [Hb]</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M124A</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>90</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekanandanchi Patre</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M24</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>150</price>
+	</entry>
+	<entry>
+		<title>Bhartiya Vyakhyane</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M45</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>50</price>
+	</entry>
+	<entry>
+		<title>Adhunik Bharat</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M52</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Bharatacha Bhavi Kal</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M87</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>8</price>
+	</entry>
+	<entry>
+		<title>Bhartiya Nari</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M23</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Nava Bharat Ghadava</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M101</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>10</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda: Rashtrala Avahan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M114</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda: Tarunanna Avahan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M115</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Shikshan</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M10</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>16</price>
+	</entry>
+	<entry>
+		<title>Man Ani Tyachi Shakti</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M125</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Purva Ani Pashchim</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M17</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>16</price>
+	</entry>
+	<entry>
+		<title>Parivrajak (Europechya Pravasachi Dainandini)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M49</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Chicago Vyakhyane</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M7</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>7</price>
+	</entry>
+	<entry>
+		<title>Vyaktimatva Vikas</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M165</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Atmatatwa</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M166</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>12</price>
+	</entry>
+	<entry>
+		<title>Agnimantra</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M168</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Dhyan Ani Tyachya Paddhati</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M172</code_no>
+		<language>Marathi</language>
+		<category>Dharma Adhyatmavishayak Grantha</category>
+		<price>15</price>
+	</entry>
+	<entry>
+		<title>Majhe Jivan Ani Karya</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M22</code_no>
+		<language>Marathi</language>
+		<category>Pocket Size Pustake</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Majhya Mohimechi Yojana</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M44</code_no>
+		<language>Marathi</language>
+		<category>Pocket Size Pustake</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Shaktidai Vichar</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M14</code_no>
+		<language>Marathi</language>
+		<category>Pocket Size Pustake</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Udgar Ani Bodhwachane</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M55</code_no>
+		<language>Marathi</language>
+		<category>Pocket Size Pustake</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekanandanche Pashchatya Jagatil Jeevitkarya</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M96</code_no>
+		<language>Marathi</language>
+		<category>Pocket Size Pustake</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Safalteche Rahasya</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M169</code_no>
+		<language>Marathi</language>
+		<category>Pocket Size Pustake</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Karma Ani Tyache Rahasya</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M187</code_no>
+		<language>Marathi</language>
+		<category>Pocket Size Pustake</category>
+		<price>6</price>
+	</entry>
+	<entry>
+		<title>Ramakrishna Chitramaya Charitra</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M129</code_no>
+		<language>Marathi</language>
+		<category>Lahanmulankarita Pustake</category>
+		<price>22</price>
+	</entry>
+	<entry>
+		<title>Sri Saradadevi Chitramaya Charitra</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M146</code_no>
+		<language>Marathi</language>
+		<category>Lahanmulankarita Pustake</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekananda Chitramaya Charitra</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M149</code_no>
+		<language>Marathi</language>
+		<category>Lahanmulankarita Pustake</category>
+		<price>30</price>
+	</entry>
+	<entry>
+		<title>Vivekanandancha Bodhakatha</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M147</code_no>
+		<language>Marathi</language>
+		<category>Lahanmulankarita Pustake</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Swami Vivekanandanni Sangitlelya Goshti</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M152</code_no>
+		<language>Marathi</language>
+		<category>Lahanmulankarita Pustake</category>
+		<price>20</price>
+	</entry>
+	<entry>
+		<title>Amrit Mantra [Marathi] - (Message of Swami Vivekananda)</title>
+		<authors>
+			<author></author>
+		</authors>
+		<code_no>M201</code_no>
+		<language>Marathi</language>
+		<category>Lahanmulankarita Pustake</category>
+		<price>10</price>
+	</entry>
 </books>
